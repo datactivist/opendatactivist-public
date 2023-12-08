@@ -1,0 +1,23 @@
+[
+    {
+      "id": "construire-csv",
+      "title": "Construire un CSV de qualité",
+      "description": "Une méthode simple pour transformer un tableau excel en un CSV exploitable",
+      "public_date": "2023-04-12",
+      "topics": ["CSV", "Qualité"]
+    },
+    {
+        "id": "patchwork-open-data",
+        "title": "5 étapes pour ouvrir les données des collectivités",
+        "description": "Un parcours d'accompagnement pas-à-pas et de bout-en-bout pour ouvrir les données des collectivités",
+        "public_date": "2023-05-30",
+        "topics": ["Ouverture", "Collectivités"]
+    },
+    {
+      "id": "patchwork-algorithmes",
+      "title": "Comment ouvrir des algorithmes publics ?",
+      "description": "Un parcours d'accompagnement de bout-en-bout pour construire et publier votre registre des algorithmes publics",
+      "public_date": "2023-04-18",
+      "topics": ["Algorithmes", "Acteurs publics", "Ouverture"]
+    }
+  ]
